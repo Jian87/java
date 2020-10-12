@@ -13,4 +13,4 @@ There are 3 difficulty levels: easy, normal and difficult, int different level t
 There is also a shop interface in the game.
 
 ## running eviroment
-suggest netbeans.
+suggest netbeans or visual studio.
